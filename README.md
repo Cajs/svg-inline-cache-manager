@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Author:** Cameron Stephen  
-**Description:** A WordPress plugin that optimizes the `get_attached_file` function for remote SVGs by caching them locally. This improves performance, enables CSS styling through inline SVGs, and ensures flexibility for developers to extend functionality.
+**Description:** A WordPress plugin that optimises the `get_attached_file` function for remote SVGs by caching them locally. This improves performance, enables CSS styling through inline SVGs, and ensures flexibility for developers to extend functionality.
 
 ---
 
