@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "PDS-UK\\SVGInlineCacheManager\\": "includes/"
+      "PDSUK\\SVGInlineCacheManager\\": "includes/"
     }
   }
 }

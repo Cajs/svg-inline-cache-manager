@@ -1,5 +1,9 @@
 <?php
 
+namespace PDSUK\SVGInlineCacheManager;
+
+use Exception;
+
 if (!defined('ABSPATH')) {
     exit; // Exit if accessed directly
 }

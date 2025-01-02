@@ -7,6 +7,8 @@
  * Text Domain: svg-inline-cache-manager
  */
 
+use PDSUK\SVGInlineCacheManager\SVGInlineCacheManager;
+
 if (!defined('ABSPATH')) {
     exit; // Exit if accessed directly
 }
